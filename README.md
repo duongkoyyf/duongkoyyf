@@ -1,6 +1,7 @@
 ### Hi there 👋
 fontend
-https://files.fm/thumb_show.php?i=d89kcq6ya
+![alt text](https://files.fm/thumb_show.php?i=d89kcq6ya)
+
 <!--
 **duongkoyyf/duongkoyyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
