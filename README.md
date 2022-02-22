@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://thiepnhanai.com/wp-content/uploads/2021/05/hinh-anh-dong-dep-1.gif)
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/180543125699104386/CDEF8AB863312DEDE73A24C9D5AEB900A3726788/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 <!--
 **duongkoyyf/duongkoyyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
