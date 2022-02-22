@@ -1,6 +1,6 @@
-### Hi there 👋
 
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/180543125699104386/CDEF8AB863312DEDE73A24C9D5AEB900A3726788/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+
+
 # Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
@@ -120,6 +120,7 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/180543125699104386/CDEF8AB863312DEDE73A24C9D5AEB900A3726788/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 **duongkoyyf/duongkoyyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
