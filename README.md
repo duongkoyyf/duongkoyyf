@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ![alt text](https://steamuserimages-a.akamaihd.net/ugc/180543125699104386/CDEF8AB863312DEDE73A24C9D5AEB900A3726788/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 <!--
 **duongkoyyf/duongkoyyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
